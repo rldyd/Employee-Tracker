@@ -16,6 +16,13 @@ This application shows all the deparments, employees, roles of company with add 
 4. https://user-images.githubusercontent.com/84109630/129508996-23b588bf-5104-40aa-8be9-369e30448d2e.mov
 
 
+# Issues
+
+* Screencastify, which was supposed to be used, had operational problems, so I've handled it with computer self-recording.
+
+* I have to push the files from the terminal, but it has no longer been operated from terminal due to password authentication issues since August 13. I tried to create a personal access token and make it work, but it didn't work and keep issued same problem. I would like to inform you that the node_module and .gitignore files could not be uploaded due to unavoidable upload files because of file's capacity was big.
+
+
 # Credits
 
 * Jorge Martinez: Jorge is a one of my classmate who always works on the project together. It always tells me in detail what i do not understand and makes me easily. Always get a lot of help from him. (https://github.com/JAMart01/Employee-Tracker)
