@@ -20,7 +20,7 @@ This application shows all the deparments, employees, roles of company with add 
 
 * Screencastify, which was supposed to be used, had operational problems, so I've handled it with computer self-recording.
 
-* I have to push the files from the terminal, but it has no longer been operated from terminal due to password authentication issues since August 13. I tried to create a personal access token and make it work, but it didn't work and keep issued same problem. I would like to inform you that the node_module and .gitignore files could not be uploaded failed because the capacity was too large. 
+* I have to push the files from the terminal, but it has no longer been operated from terminal due to password authentication issues since August 13. I tried to create a personal access token and make it work, but it didn't work and keep issued same problem. I would like to inform you that the node_module and .gitignore files could not be uploaded because the capacity was too large. 
 
 
 # Credits
